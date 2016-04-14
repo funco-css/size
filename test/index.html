@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Funco: Display Test</title>
+		<link rel="stylesheet" href="../dist/index.css" />
+		<style>
+			html {
+				font-family: Verdana;
+				box-sizing: border-box;
+			}
+
+			* {
+				box-sizing: inherit;
+			}
+
+			code {
+				font-size: 1rem;
+			}
+
+			.funco\/box {
+				border: 1px solid black;
+				margin-bottom: 1rem;
+				padding: 1rem;
+				background-color: magenta;
+			}
+
+			.funco\/box > dt {
+				color: magenta;
+			}
+		</style>
+	</head>
+	<body>
+		<header role="banner">
+			<h1>Funco: Display Test</h1>
+		</header>
+		<main role="main">
+			<section>
+				<h2>Display</h2>
+				<ol>
+					<li>
+						<section>
+							<dl class="funco/tests">
+
+								<div class="funco/box">
+									<dt class="background/black">
+										background / black
+									</dt>
+									<dd><code>`.background/black`</code></dd>
+								</div>
+								<div class="funco/box">
+									<dt class="bg/black">
+										Shorthand: background / black
+									</dt>
+									<dd><code>`.bg/black`</code></dd>
+								</div>
+
+								<div class="funco/box">
+									<dt class="background/dark-gray">
+										background / dark-gray
+									</dt>
+									<dd><code>`.background/dark-gray`</code></dd>
+								</div>
+								<div class="funco/box">
+									<dt class="bg/d-gray">
+										Shorthand: background / dark-gray
+									</dt>
+									<dd><code>`.bg/d-gray`</code></dd>
+								</div>
+
+								<div class="funco/box">
+									<dt class="background/gray">
+										background / gray
+									</dt>
+									<dd><code>`.background/gray`</code></dd>
+								</div>
+								<div class="funco/box">
+									<dt class="bg/gray">
+										Shorthand: background / gray
+									</dt>
+									<dd><code>`.bg/gray`</code></dd>
+								</div>
+
+								<div class="funco/box">
+									<dt class="background/light-gray">
+										background / light-gray
+									</dt>
+									<dd><code>`.background/light-gray`</code></dd>
+								</div>
+								<div class="funco/box">
+									<dt class="bg/l-gray">
+										Shorthand: background / light-gray
+									</dt>
+									<dd><code>`.bg/l-gray`</code></dd>
+								</div>
+
+								<div class="funco/box">
+									<dt class="background/white">
+										background / white
+									</dt>
+									<dd><code>`.background/white`</code></dd>
+								</div>
+								<div class="funco/box">
+									<dt class="bg/white">
+										Shorthand: background / white
+									</dt>
+									<dd><code>`.bg/white`</code></dd>
+								</div>
+
+							</dl>
+						</section>
+					</li>
+				</ol>
+			</section>
+		</main>
+		<script id="__bs_script__">//<![CDATA[
+				document.write("<script async src='http://HOST:1337/browser-sync/browse
+		r-sync-client.2.11.2.js'><\/script>".replace("HOST", location.hostname));
+		//]]></script>
+	</body>
+</html>
