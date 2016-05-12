@@ -130,666 +130,666 @@
 }
 
 @media (min-width: 20em) {
-	.width\/1of12@sm {
+	.width\/1of12\@xs {
 		width: 8.33333%;
 	}
 
-	.width\/10,
-	.width\/1of10@sm {
+	.width\/10\@xs,
+	.width\/1of10\@xs {
 		width: 10%;
 	}
 
-	.width\/1of8@sm {
+	.width\/1of8\@xs {
 		width: 12.5%;
 	}
 
-	.width\/1of6,
-	.width\/2of12@sm {
+	.width\/1of6\@xs,
+	.width\/2of12\@xs {
 		width: 16.66667%;
 	}
 
-	.width\/20,
-	.width\/1of5,
-	.width\/2of10@sm {
+	.width\/20\@xs,
+	.width\/1of5\@xs,
+	.width\/2of10\@xs {
 		width: 20%;
 	}
 
-	.width\/25,
-	.width\/1of4,
-	.width\/2of8,
-	.width\/3of12@sm {
+	.width\/25\@xs,
+	.width\/1of4\@xs,
+	.width\/2of8\@xs,
+	.width\/3of12\@xs {
 		width: 25%;
 	}
 
-	.width\/30,
-	.width\/3of10@sm {
+	.width\/30\@xs,
+	.width\/3of10\@xs {
 		width: 30%;
 	}
 
-	.width\/1of3,
-	.width\/2of6,
-	.width\/4of12@sm {
+	.width\/1of3\@xs,
+	.width\/2of6\@xs,
+	.width\/4of12\@xs {
 		width: 33.33333%;
 	}
 
-	.width\/3of8@sm {
+	.width\/3of8\@xs {
 		width: 37.5%;
 	}
 
-	.width\/40,
-	.width\/2of5,
-	.width\/4of10@sm {
+	.width\/40\@xs,
+	.width\/2of5\@xs,
+	.width\/4of10\@xs {
 		width: 40%;
 	}
 
-	.width\/5of12@sm {
+	.width\/5of12\@xs {
 		width: 41.66667%;
 	}
 
-	.width\/50,
-	.width\/1of2,
-	.width\/2of4,
-	.width\/3of6,
-	.width\/4of8,
-	.width\/5of10,
-	.width\/6of12@sm {
+	.width\/50\@xs,
+	.width\/1of2\@xs,
+	.width\/2of4\@xs,
+	.width\/3of6\@xs,
+	.width\/4of8\@xs,
+	.width\/5of10\@xs,
+	.width\/6of12\@xs {
 		width: 50%;
 	}
 
-	.width\/7of12@sm {
+	.width\/7of12\@xs {
 		width: 58.33333%;
 	}
 
-	.width\/60,
-	.width\/3of5,
-	.width\/6of10@sm {
+	.width\/60\@xs,
+	.width\/3of5\@xs,
+	.width\/6of10\@xs {
 		width: 60%;
 	}
 
-	.width\/5of8@sm {
+	.width\/5of8\@xs {
 		width: 62.5%;
 	}
 
-	.width\/70,
-	.width\/7of10@sm {
+	.width\/70\@xs,
+	.width\/7of10\@xs {
 		width: 70%;
 	}
 
-	.width\/75,
-	.width\/2of3,
-	.width\/6of8,
-	.width\/9of12@sm {
+	.width\/75\@xs,
+	.width\/2of3\@xs,
+	.width\/6of8\@xs,
+	.width\/9of12\@xs {
 		width: 75%;
 	}
 
-	.width\/80,
-	.width\/4of5,
-	.width\/8of10@sm {
+	.width\/80\@xs,
+	.width\/4of5\@xs,
+	.width\/8of10\@xs {
 		width: 80%;
 	}
 
-	.width\/5of6,
-	.width\/10of12@sm {
+	.width\/5of6\@xs,
+	.width\/10of12\@xs {
 		width: 83.33333%;
 	}
 
-	.width\/7of8@sm {
+	.width\/7of8\@xs {
 		width: 87.5%;
 	}
 
-	.width\/90,
-	.width\/9of10@sm {
+	.width\/90\@xs,
+	.width\/9of10\@xs {
 		width: 90%;
 	}
 
-	.width\/11of12@sm {
+	.width\/11of12\@xs {
 		width: 91.66667%;
 	}
 
-	.width\/100,
-	.width\/12of12,
-	.width\/10of10,
-	.width\/9of9,
-	.width\/8of8,
-	.width\/6of6,
-	.width\/5of5,
-	.width\/4of4,
-	.width\/3of3,
-	.width\/2of2,
-	.width\/1of1,
-	.width\/full@sm {
+	.width\/100\@xs,
+	.width\/12of12\@xs,
+	.width\/10of10\@xs,
+	.width\/9of9\@xs,
+	.width\/8of8\@xs,
+	.width\/6of6\@xs,
+	.width\/5of5\@xs,
+	.width\/4of4\@xs,
+	.width\/3of3\@xs,
+	.width\/2of2\@xs,
+	.width\/1of1\@xs,
+	.width\/full\@xs {
 		width: 100%;
 	}
 }
 
 @media (min-width: 30em) {
-	.width\/1of12@sm {
+	.width\/1of12\@sm {
 		width: 8.33333%;
 	}
 
-	.width\/10,
-	.width\/1of10@sm {
+	.width\/10\@sm,
+	.width\/1of10\@sm {
 		width: 10%;
 	}
 
-	.width\/1of8@sm {
+	.width\/1of8\@sm {
 		width: 12.5%;
 	}
 
-	.width\/1of6,
-	.width\/2of12@sm {
+	.width\/1of6\@sm,
+	.width\/2of12\@sm {
 		width: 16.66667%;
 	}
 
-	.width\/20,
-	.width\/1of5,
-	.width\/2of10@sm {
+	.width\/20\@sm,
+	.width\/1of5\@sm,
+	.width\/2of10\@sm {
 		width: 20%;
 	}
 
-	.width\/25,
-	.width\/1of4,
-	.width\/2of8,
-	.width\/3of12@sm {
+	.width\/25\@sm,
+	.width\/1of4\@sm,
+	.width\/2of8\@sm,
+	.width\/3of12\@sm {
 		width: 25%;
 	}
 
-	.width\/30,
-	.width\/3of10@sm {
+	.width\/30\@sm,
+	.width\/3of10\@sm {
 		width: 30%;
 	}
 
-	.width\/1of3,
-	.width\/2of6,
-	.width\/4of12@sm {
+	.width\/1of3\@sm,
+	.width\/2of6\@sm,
+	.width\/4of12\@sm {
 		width: 33.33333%;
 	}
 
-	.width\/3of8@sm {
+	.width\/3of8\@sm {
 		width: 37.5%;
 	}
 
-	.width\/40,
-	.width\/2of5,
-	.width\/4of10@sm {
+	.width\/40\@sm,
+	.width\/2of5\@sm,
+	.width\/4of10\@sm {
 		width: 40%;
 	}
 
-	.width\/5of12@sm {
+	.width\/5of12\@sm {
 		width: 41.66667%;
 	}
 
-	.width\/50,
-	.width\/1of2,
-	.width\/2of4,
-	.width\/3of6,
-	.width\/4of8,
-	.width\/5of10,
-	.width\/6of12@sm {
+	.width\/50\@sm,
+	.width\/1of2\@sm,
+	.width\/2of4\@sm,
+	.width\/3of6\@sm,
+	.width\/4of8\@sm,
+	.width\/5of10\@sm,
+	.width\/6of12\@sm {
 		width: 50%;
 	}
 
-	.width\/7of12@sm {
+	.width\/7of12\@sm {
 		width: 58.33333%;
 	}
 
-	.width\/60,
-	.width\/3of5,
-	.width\/6of10@sm {
+	.width\/60\@sm,
+	.width\/3of5\@sm,
+	.width\/6of10\@sm {
 		width: 60%;
 	}
 
-	.width\/5of8@sm {
+	.width\/5of8\@sm {
 		width: 62.5%;
 	}
 
-	.width\/70,
-	.width\/7of10@sm {
+	.width\/70\@sm,
+	.width\/7of10\@sm {
 		width: 70%;
 	}
 
-	.width\/75,
-	.width\/2of3,
-	.width\/6of8,
-	.width\/9of12@sm {
+	.width\/75\@sm,
+	.width\/2of3\@sm,
+	.width\/6of8\@sm,
+	.width\/9of12\@sm {
 		width: 75%;
 	}
 
-	.width\/80,
-	.width\/4of5,
-	.width\/8of10@sm {
+	.width\/80\@sm,
+	.width\/4of5\@sm,
+	.width\/8of10\@sm {
 		width: 80%;
 	}
 
-	.width\/5of6,
-	.width\/10of12@sm {
+	.width\/5of6\@sm,
+	.width\/10of12\@sm {
 		width: 83.33333%;
 	}
 
-	.width\/7of8@sm {
+	.width\/7of8\@sm {
 		width: 87.5%;
 	}
 
-	.width\/90,
-	.width\/9of10@sm {
+	.width\/90\@sm,
+	.width\/9of10\@sm {
 		width: 90%;
 	}
 
-	.width\/11of12@sm {
+	.width\/11of12\@sm {
 		width: 91.66667%;
 	}
 
-	.width\/100,
-	.width\/12of12,
-	.width\/10of10,
-	.width\/9of9,
-	.width\/8of8,
-	.width\/6of6,
-	.width\/5of5,
-	.width\/4of4,
-	.width\/3of3,
-	.width\/2of2,
-	.width\/1of1,
-	.width\/full@sm {
+	.width\/100\@sm,
+	.width\/12of12\@sm,
+	.width\/10of10\@sm,
+	.width\/9of9\@sm,
+	.width\/8of8\@sm,
+	.width\/6of6\@sm,
+	.width\/5of5\@sm,
+	.width\/4of4\@sm,
+	.width\/3of3\@sm,
+	.width\/2of2\@sm,
+	.width\/1of1\@sm,
+	.width\/full\@sm {
 		width: 100%;
 	}
 }
 
 @media (min-width: 37em) {
-	.width\/1of12@sm {
+	.width\/1of12\@md {
 		width: 8.33333%;
 	}
 
-	.width\/10,
-	.width\/1of10@sm {
+	.width\/10\@md,
+	.width\/1of10\@md {
 		width: 10%;
 	}
 
-	.width\/1of8@sm {
+	.width\/1of8\@md {
 		width: 12.5%;
 	}
 
-	.width\/1of6,
-	.width\/2of12@sm {
+	.width\/1of6\@md,
+	.width\/2of12\@md {
 		width: 16.66667%;
 	}
 
-	.width\/20,
-	.width\/1of5,
-	.width\/2of10@sm {
+	.width\/20\@md,
+	.width\/1of5\@md,
+	.width\/2of10\@md {
 		width: 20%;
 	}
 
-	.width\/25,
-	.width\/1of4,
-	.width\/2of8,
-	.width\/3of12@sm {
+	.width\/25\@md,
+	.width\/1of4\@md,
+	.width\/2of8\@md,
+	.width\/3of12\@md {
 		width: 25%;
 	}
 
-	.width\/30,
-	.width\/3of10@sm {
+	.width\/30\@md,
+	.width\/3of10\@md {
 		width: 30%;
 	}
 
-	.width\/1of3,
-	.width\/2of6,
-	.width\/4of12@sm {
+	.width\/1of3\@md,
+	.width\/2of6\@md,
+	.width\/4of12\@md {
 		width: 33.33333%;
 	}
 
-	.width\/3of8@sm {
+	.width\/3of8\@md {
 		width: 37.5%;
 	}
 
-	.width\/40,
-	.width\/2of5,
-	.width\/4of10@sm {
+	.width\/40\@md,
+	.width\/2of5\@md,
+	.width\/4of10\@md {
 		width: 40%;
 	}
 
-	.width\/5of12@sm {
+	.width\/5of12\@md {
 		width: 41.66667%;
 	}
 
-	.width\/50,
-	.width\/1of2,
-	.width\/2of4,
-	.width\/3of6,
-	.width\/4of8,
-	.width\/5of10,
-	.width\/6of12@sm {
+	.width\/50\@md,
+	.width\/1of2\@md,
+	.width\/2of4\@md,
+	.width\/3of6\@md,
+	.width\/4of8\@md,
+	.width\/5of10\@md,
+	.width\/6of12\@md {
 		width: 50%;
 	}
 
-	.width\/7of12@sm {
+	.width\/7of12\@md {
 		width: 58.33333%;
 	}
 
-	.width\/60,
-	.width\/3of5,
-	.width\/6of10@sm {
+	.width\/60\@md,
+	.width\/3of5\@md,
+	.width\/6of10\@md {
 		width: 60%;
 	}
 
-	.width\/5of8@sm {
+	.width\/5of8\@md {
 		width: 62.5%;
 	}
 
-	.width\/70,
-	.width\/7of10@sm {
+	.width\/70\@md,
+	.width\/7of10\@md {
 		width: 70%;
 	}
 
-	.width\/75,
-	.width\/2of3,
-	.width\/6of8,
-	.width\/9of12@sm {
+	.width\/75\@md,
+	.width\/2of3\@md,
+	.width\/6of8\@md,
+	.width\/9of12\@md {
 		width: 75%;
 	}
 
-	.width\/80,
-	.width\/4of5,
-	.width\/8of10@sm {
+	.width\/80\@md,
+	.width\/4of5\@md,
+	.width\/8of10\@md {
 		width: 80%;
 	}
 
-	.width\/5of6,
-	.width\/10of12@sm {
+	.width\/5of6\@md,
+	.width\/10of12\@md {
 		width: 83.33333%;
 	}
 
-	.width\/7of8@sm {
+	.width\/7of8\@md {
 		width: 87.5%;
 	}
 
-	.width\/90,
-	.width\/9of10@sm {
+	.width\/90\@md,
+	.width\/9of10\@md {
 		width: 90%;
 	}
 
-	.width\/11of12@sm {
+	.width\/11of12\@md {
 		width: 91.66667%;
 	}
 
-	.width\/100,
-	.width\/12of12,
-	.width\/10of10,
-	.width\/9of9,
-	.width\/8of8,
-	.width\/6of6,
-	.width\/5of5,
-	.width\/4of4,
-	.width\/3of3,
-	.width\/2of2,
-	.width\/1of1,
-	.width\/full@sm {
+	.width\/100\@md,
+	.width\/12of12\@md,
+	.width\/10of10\@md,
+	.width\/9of9\@md,
+	.width\/8of8\@md,
+	.width\/6of6\@md,
+	.width\/5of5\@md,
+	.width\/4of4\@md,
+	.width\/3of3\@md,
+	.width\/2of2\@md,
+	.width\/1of1\@md,
+	.width\/full\@md {
 		width: 100%;
 	}
 }
 
 @media (min-width: 43em) {
-	.width\/1of12@sm {
+	.width\/1of12\@lg {
 		width: 8.33333%;
 	}
 
-	.width\/10,
-	.width\/1of10@sm {
+	.width\/10\@lg,
+	.width\/1of10\@lg {
 		width: 10%;
 	}
 
-	.width\/1of8@sm {
+	.width\/1of8\@lg {
 		width: 12.5%;
 	}
 
-	.width\/1of6,
-	.width\/2of12@sm {
+	.width\/1of6\@lg,
+	.width\/2of12\@lg {
 		width: 16.66667%;
 	}
 
-	.width\/20,
-	.width\/1of5,
-	.width\/2of10@sm {
+	.width\/20\@lg,
+	.width\/1of5\@lg,
+	.width\/2of10\@lg {
 		width: 20%;
 	}
 
-	.width\/25,
-	.width\/1of4,
-	.width\/2of8,
-	.width\/3of12@sm {
+	.width\/25\@lg,
+	.width\/1of4\@lg,
+	.width\/2of8\@lg,
+	.width\/3of12\@lg {
 		width: 25%;
 	}
 
-	.width\/30,
-	.width\/3of10@sm {
+	.width\/30\@lg,
+	.width\/3of10\@lg {
 		width: 30%;
 	}
 
-	.width\/1of3,
-	.width\/2of6,
-	.width\/4of12@sm {
+	.width\/1of3\@lg,
+	.width\/2of6\@lg,
+	.width\/4of12\@lg {
 		width: 33.33333%;
 	}
 
-	.width\/3of8@sm {
+	.width\/3of8\@lg {
 		width: 37.5%;
 	}
 
-	.width\/40,
-	.width\/2of5,
-	.width\/4of10@sm {
+	.width\/40\@lg,
+	.width\/2of5\@lg,
+	.width\/4of10\@lg {
 		width: 40%;
 	}
 
-	.width\/5of12@sm {
+	.width\/5of12\@lg {
 		width: 41.66667%;
 	}
 
-	.width\/50,
-	.width\/1of2,
-	.width\/2of4,
-	.width\/3of6,
-	.width\/4of8,
-	.width\/5of10,
-	.width\/6of12@sm {
+	.width\/50\@lg,
+	.width\/1of2\@lg,
+	.width\/2of4\@lg,
+	.width\/3of6\@lg,
+	.width\/4of8\@lg,
+	.width\/5of10\@lg,
+	.width\/6of12\@lg {
 		width: 50%;
 	}
 
-	.width\/7of12@sm {
+	.width\/7of12\@lg {
 		width: 58.33333%;
 	}
 
-	.width\/60,
-	.width\/3of5,
-	.width\/6of10@sm {
+	.width\/60\@lg,
+	.width\/3of5\@lg,
+	.width\/6of10\@lg {
 		width: 60%;
 	}
 
-	.width\/5of8@sm {
+	.width\/5of8\@lg {
 		width: 62.5%;
 	}
 
-	.width\/70,
-	.width\/7of10@sm {
+	.width\/70\@lg,
+	.width\/7of10\@lg {
 		width: 70%;
 	}
 
-	.width\/75,
-	.width\/2of3,
-	.width\/6of8,
-	.width\/9of12@sm {
+	.width\/75\@lg,
+	.width\/2of3\@lg,
+	.width\/6of8\@lg,
+	.width\/9of12\@lg {
 		width: 75%;
 	}
 
-	.width\/80,
-	.width\/4of5,
-	.width\/8of10@sm {
+	.width\/80\@lg,
+	.width\/4of5\@lg,
+	.width\/8of10\@lg {
 		width: 80%;
 	}
 
-	.width\/5of6,
-	.width\/10of12@sm {
+	.width\/5of6\@lg,
+	.width\/10of12\@lg {
 		width: 83.33333%;
 	}
 
-	.width\/7of8@sm {
+	.width\/7of8\@lg {
 		width: 87.5%;
 	}
 
-	.width\/90,
-	.width\/9of10@sm {
+	.width\/90\@lg,
+	.width\/9of10\@lg {
 		width: 90%;
 	}
 
-	.width\/11of12@sm {
+	.width\/11of12\@lg {
 		width: 91.66667%;
 	}
 
-	.width\/100,
-	.width\/12of12,
-	.width\/10of10,
-	.width\/9of9,
-	.width\/8of8,
-	.width\/6of6,
-	.width\/5of5,
-	.width\/4of4,
-	.width\/3of3,
-	.width\/2of2,
-	.width\/1of1,
-	.width\/full@sm {
+	.width\/100\@lg,
+	.width\/12of12\@lg,
+	.width\/10of10\@lg,
+	.width\/9of9\@lg,
+	.width\/8of8\@lg,
+	.width\/6of6\@lg,
+	.width\/5of5\@lg,
+	.width\/4of4\@lg,
+	.width\/3of3\@lg,
+	.width\/2of2\@lg,
+	.width\/1of1\@lg,
+	.width\/full\@lg {
 		width: 100%;
 	}
 }
 
 @media (min-width: 50em) {
-	.width\/1of12@sm {
+	.width\/1of12\@xl {
 		width: 8.33333%;
 	}
 
-	.width\/10,
-	.width\/1of10@sm {
+	.width\/10\@xl,
+	.width\/1of10\@xl {
 		width: 10%;
 	}
 
-	.width\/1of8@sm {
+	.width\/1of8\@xl {
 		width: 12.5%;
 	}
 
-	.width\/1of6,
-	.width\/2of12@sm {
+	.width\/1of6\@xl,
+	.width\/2of12\@xl {
 		width: 16.66667%;
 	}
 
-	.width\/20,
-	.width\/1of5,
-	.width\/2of10@sm {
+	.width\/20\@xl,
+	.width\/1of5\@xl,
+	.width\/2of10\@xl {
 		width: 20%;
 	}
 
-	.width\/25,
-	.width\/1of4,
-	.width\/2of8,
-	.width\/3of12@sm {
+	.width\/25\@xl,
+	.width\/1of4\@xl,
+	.width\/2of8\@xl,
+	.width\/3of12\@xl {
 		width: 25%;
 	}
 
-	.width\/30,
-	.width\/3of10@sm {
+	.width\/30\@xl,
+	.width\/3of10\@xl {
 		width: 30%;
 	}
 
-	.width\/1of3,
-	.width\/2of6,
-	.width\/4of12@sm {
+	.width\/1of3\@xl,
+	.width\/2of6\@xl,
+	.width\/4of12\@xl {
 		width: 33.33333%;
 	}
 
-	.width\/3of8@sm {
+	.width\/3of8\@xl {
 		width: 37.5%;
 	}
 
-	.width\/40,
-	.width\/2of5,
-	.width\/4of10@sm {
+	.width\/40\@xl,
+	.width\/2of5\@xl,
+	.width\/4of10\@xl {
 		width: 40%;
 	}
 
-	.width\/5of12@sm {
+	.width\/5of12\@xl {
 		width: 41.66667%;
 	}
 
-	.width\/50,
-	.width\/1of2,
-	.width\/2of4,
-	.width\/3of6,
-	.width\/4of8,
-	.width\/5of10,
-	.width\/6of12@sm {
+	.width\/50\@xl,
+	.width\/1of2\@xl,
+	.width\/2of4\@xl,
+	.width\/3of6\@xl,
+	.width\/4of8\@xl,
+	.width\/5of10\@xl,
+	.width\/6of12\@xl {
 		width: 50%;
 	}
 
-	.width\/7of12@sm {
+	.width\/7of12\@xl {
 		width: 58.33333%;
 	}
 
-	.width\/60,
-	.width\/3of5,
-	.width\/6of10@sm {
+	.width\/60\@xl,
+	.width\/3of5\@xl,
+	.width\/6of10\@xl {
 		width: 60%;
 	}
 
-	.width\/5of8@sm {
+	.width\/5of8\@xl {
 		width: 62.5%;
 	}
 
-	.width\/70,
-	.width\/7of10@sm {
+	.width\/70\@xl,
+	.width\/7of10\@xl {
 		width: 70%;
 	}
 
-	.width\/75,
-	.width\/2of3,
-	.width\/6of8,
-	.width\/9of12@sm {
+	.width\/75\@xl,
+	.width\/2of3\@xl,
+	.width\/6of8\@xl,
+	.width\/9of12\@xl {
 		width: 75%;
 	}
 
-	.width\/80,
-	.width\/4of5,
-	.width\/8of10@sm {
+	.width\/80\@xl,
+	.width\/4of5\@xl,
+	.width\/8of10\@xl {
 		width: 80%;
 	}
 
-	.width\/5of6,
-	.width\/10of12@sm {
+	.width\/5of6\@xl,
+	.width\/10of12\@xl {
 		width: 83.33333%;
 	}
 
-	.width\/7of8@sm {
+	.width\/7of8\@xl {
 		width: 87.5%;
 	}
 
-	.width\/90,
-	.width\/9of10@sm {
+	.width\/90\@xl,
+	.width\/9of10\@xl {
 		width: 90%;
 	}
 
-	.width\/11of12@sm {
+	.width\/11of12\@xl {
 		width: 91.66667%;
 	}
 
-	.width\/100,
-	.width\/12of12,
-	.width\/10of10,
-	.width\/9of9,
-	.width\/8of8,
-	.width\/6of6,
-	.width\/5of5,
-	.width\/4of4,
-	.width\/3of3,
-	.width\/2of2,
-	.width\/1of1,
-	.width\/full@sm {
+	.width\/100\@xl,
+	.width\/12of12\@xl,
+	.width\/10of10\@xl,
+	.width\/9of9\@xl,
+	.width\/8of8\@xl,
+	.width\/6of6\@xl,
+	.width\/5of5\@xl,
+	.width\/4of4\@xl,
+	.width\/3of3\@xl,
+	.width\/2of2\@xl,
+	.width\/1of1\@xl,
+	.width\/full\@xl {
 		width: 100%;
 	}
 }
@@ -926,666 +926,666 @@
 }
 
 @media (min-width: 20em) {
-	.w\/1of12@sm {
+	.w\/1of12\@xs {
 		width: 8.33333%;
 	}
 
-	.w\/10,
-	.w\/1of10@sm {
+	.w\/10\@xs,
+	.w\/1of10\@xs {
 		width: 10%;
 	}
 
-	.w\/1of8@sm {
+	.w\/1of8\@xs {
 		width: 12.5%;
 	}
 
-	.w\/1of6,
-	.w\/2of12@sm {
+	.w\/1of6\@xs,
+	.w\/2of12\@xs {
 		width: 16.66667%;
 	}
 
-	.w\/20,
-	.w\/1of5,
-	.w\/2of10@sm {
+	.w\/20\@xs,
+	.w\/1of5\@xs,
+	.w\/2of10\@xs {
 		width: 20%;
 	}
 
-	.w\/25,
-	.w\/1of4,
-	.w\/2of8,
-	.w\/3of12@sm {
+	.w\/25\@xs,
+	.w\/1of4\@xs,
+	.w\/2of8\@xs,
+	.w\/3of12\@xs {
 		width: 25%;
 	}
 
-	.w\/30,
-	.w\/3of10@sm {
+	.w\/30\@xs,
+	.w\/3of10\@xs {
 		width: 30%;
 	}
 
-	.w\/1of3,
-	.w\/2of6,
-	.w\/4of12@sm {
+	.w\/1of3\@xs,
+	.w\/2of6\@xs,
+	.w\/4of12\@xs {
 		width: 33.33333%;
 	}
 
-	.w\/3of8@sm {
+	.w\/3of8\@xs {
 		width: 37.5%;
 	}
 
-	.w\/40,
-	.w\/2of5,
-	.w\/4of10@sm {
+	.w\/40\@xs,
+	.w\/2of5\@xs,
+	.w\/4of10\@xs {
 		width: 40%;
 	}
 
-	.w\/5of12@sm {
+	.w\/5of12\@xs {
 		width: 41.66667%;
 	}
 
-	.w\/50,
-	.w\/1of2,
-	.w\/2of4,
-	.w\/3of6,
-	.w\/4of8,
-	.w\/5of10,
-	.w\/6of12@sm {
+	.w\/50\@xs,
+	.w\/1of2\@xs,
+	.w\/2of4\@xs,
+	.w\/3of6\@xs,
+	.w\/4of8\@xs,
+	.w\/5of10\@xs,
+	.w\/6of12\@xs {
 		width: 50%;
 	}
 
-	.w\/7of12@sm {
+	.w\/7of12\@xs {
 		width: 58.33333%;
 	}
 
-	.w\/60,
-	.w\/3of5,
-	.w\/6of10@sm {
+	.w\/60\@xs,
+	.w\/3of5\@xs,
+	.w\/6of10\@xs {
 		width: 60%;
 	}
 
-	.w\/5of8@sm {
+	.w\/5of8\@xs {
 		width: 62.5%;
 	}
 
-	.w\/70,
-	.w\/7of10@sm {
+	.w\/70\@xs,
+	.w\/7of10\@xs {
 		width: 70%;
 	}
 
-	.w\/75,
-	.w\/2of3,
-	.w\/6of8,
-	.w\/9of12@sm {
+	.w\/75\@xs,
+	.w\/2of3\@xs,
+	.w\/6of8\@xs,
+	.w\/9of12\@xs {
 		width: 75%;
 	}
 
-	.w\/80,
-	.w\/4of5,
-	.w\/8of10@sm {
+	.w\/80\@xs,
+	.w\/4of5\@xs,
+	.w\/8of10\@xs {
 		width: 80%;
 	}
 
-	.w\/5of6,
-	.w\/10of12@sm {
+	.w\/5of6\@xs,
+	.w\/10of12\@xs {
 		width: 83.33333%;
 	}
 
-	.w\/7of8@sm {
+	.w\/7of8\@xs {
 		width: 87.5%;
 	}
 
-	.w\/90,
-	.w\/9of10@sm {
+	.w\/90\@xs,
+	.w\/9of10\@xs {
 		width: 90%;
 	}
 
-	.w\/11of12@sm {
+	.w\/11of12\@xs {
 		width: 91.66667%;
 	}
 
-	.w\/100,
-	.w\/12of12,
-	.w\/10of10,
-	.w\/9of9,
-	.w\/8of8,
-	.w\/6of6,
-	.w\/5of5,
-	.w\/4of4,
-	.w\/3of3,
-	.w\/2of2,
-	.w\/1of1,
-	.w\/full@sm {
+	.w\/100\@xs,
+	.w\/12of12\@xs,
+	.w\/10of10\@xs,
+	.w\/9of9\@xs,
+	.w\/8of8\@xs,
+	.w\/6of6\@xs,
+	.w\/5of5\@xs,
+	.w\/4of4\@xs,
+	.w\/3of3\@xs,
+	.w\/2of2\@xs,
+	.w\/1of1\@xs,
+	.w\/full\@xs {
 		width: 100%;
 	}
 }
 
 @media (min-width: 30em) {
-	.w\/1of12@sm {
+	.w\/1of12\@sm {
 		width: 8.33333%;
 	}
 
-	.w\/10,
-	.w\/1of10@sm {
+	.w\/10\@sm,
+	.w\/1of10\@sm {
 		width: 10%;
 	}
 
-	.w\/1of8@sm {
+	.w\/1of8\@sm {
 		width: 12.5%;
 	}
 
-	.w\/1of6,
-	.w\/2of12@sm {
+	.w\/1of6\@sm,
+	.w\/2of12\@sm {
 		width: 16.66667%;
 	}
 
-	.w\/20,
-	.w\/1of5,
-	.w\/2of10@sm {
+	.w\/20\@sm,
+	.w\/1of5\@sm,
+	.w\/2of10\@sm {
 		width: 20%;
 	}
 
-	.w\/25,
-	.w\/1of4,
-	.w\/2of8,
-	.w\/3of12@sm {
+	.w\/25\@sm,
+	.w\/1of4\@sm,
+	.w\/2of8\@sm,
+	.w\/3of12\@sm {
 		width: 25%;
 	}
 
-	.w\/30,
-	.w\/3of10@sm {
+	.w\/30\@sm,
+	.w\/3of10\@sm {
 		width: 30%;
 	}
 
-	.w\/1of3,
-	.w\/2of6,
-	.w\/4of12@sm {
+	.w\/1of3\@sm,
+	.w\/2of6\@sm,
+	.w\/4of12\@sm {
 		width: 33.33333%;
 	}
 
-	.w\/3of8@sm {
+	.w\/3of8\@sm {
 		width: 37.5%;
 	}
 
-	.w\/40,
-	.w\/2of5,
-	.w\/4of10@sm {
+	.w\/40\@sm,
+	.w\/2of5\@sm,
+	.w\/4of10\@sm {
 		width: 40%;
 	}
 
-	.w\/5of12@sm {
+	.w\/5of12\@sm {
 		width: 41.66667%;
 	}
 
-	.w\/50,
-	.w\/1of2,
-	.w\/2of4,
-	.w\/3of6,
-	.w\/4of8,
-	.w\/5of10,
-	.w\/6of12@sm {
+	.w\/50\@sm,
+	.w\/1of2\@sm,
+	.w\/2of4\@sm,
+	.w\/3of6\@sm,
+	.w\/4of8\@sm,
+	.w\/5of10\@sm,
+	.w\/6of12\@sm {
 		width: 50%;
 	}
 
-	.w\/7of12@sm {
+	.w\/7of12\@sm {
 		width: 58.33333%;
 	}
 
-	.w\/60,
-	.w\/3of5,
-	.w\/6of10@sm {
+	.w\/60\@sm,
+	.w\/3of5\@sm,
+	.w\/6of10\@sm {
 		width: 60%;
 	}
 
-	.w\/5of8@sm {
+	.w\/5of8\@sm {
 		width: 62.5%;
 	}
 
-	.w\/70,
-	.w\/7of10@sm {
+	.w\/70\@sm,
+	.w\/7of10\@sm {
 		width: 70%;
 	}
 
-	.w\/75,
-	.w\/2of3,
-	.w\/6of8,
-	.w\/9of12@sm {
+	.w\/75\@sm,
+	.w\/2of3\@sm,
+	.w\/6of8\@sm,
+	.w\/9of12\@sm {
 		width: 75%;
 	}
 
-	.w\/80,
-	.w\/4of5,
-	.w\/8of10@sm {
+	.w\/80\@sm,
+	.w\/4of5\@sm,
+	.w\/8of10\@sm {
 		width: 80%;
 	}
 
-	.w\/5of6,
-	.w\/10of12@sm {
+	.w\/5of6\@sm,
+	.w\/10of12\@sm {
 		width: 83.33333%;
 	}
 
-	.w\/7of8@sm {
+	.w\/7of8\@sm {
 		width: 87.5%;
 	}
 
-	.w\/90,
-	.w\/9of10@sm {
+	.w\/90\@sm,
+	.w\/9of10\@sm {
 		width: 90%;
 	}
 
-	.w\/11of12@sm {
+	.w\/11of12\@sm {
 		width: 91.66667%;
 	}
 
-	.w\/100,
-	.w\/12of12,
-	.w\/10of10,
-	.w\/9of9,
-	.w\/8of8,
-	.w\/6of6,
-	.w\/5of5,
-	.w\/4of4,
-	.w\/3of3,
-	.w\/2of2,
-	.w\/1of1,
-	.w\/full@sm {
+	.w\/100\@sm,
+	.w\/12of12\@sm,
+	.w\/10of10\@sm,
+	.w\/9of9\@sm,
+	.w\/8of8\@sm,
+	.w\/6of6\@sm,
+	.w\/5of5\@sm,
+	.w\/4of4\@sm,
+	.w\/3of3\@sm,
+	.w\/2of2\@sm,
+	.w\/1of1\@sm,
+	.w\/full\@sm {
 		width: 100%;
 	}
 }
 
 @media (min-width: 37em) {
-	.w\/1of12@sm {
+	.w\/1of12\@md {
 		width: 8.33333%;
 	}
 
-	.w\/10,
-	.w\/1of10@sm {
+	.w\/10\@md,
+	.w\/1of10\@md {
 		width: 10%;
 	}
 
-	.w\/1of8@sm {
+	.w\/1of8\@md {
 		width: 12.5%;
 	}
 
-	.w\/1of6,
-	.w\/2of12@sm {
+	.w\/1of6\@md,
+	.w\/2of12\@md {
 		width: 16.66667%;
 	}
 
-	.w\/20,
-	.w\/1of5,
-	.w\/2of10@sm {
+	.w\/20\@md,
+	.w\/1of5\@md,
+	.w\/2of10\@md {
 		width: 20%;
 	}
 
-	.w\/25,
-	.w\/1of4,
-	.w\/2of8,
-	.w\/3of12@sm {
+	.w\/25\@md,
+	.w\/1of4\@md,
+	.w\/2of8\@md,
+	.w\/3of12\@md {
 		width: 25%;
 	}
 
-	.w\/30,
-	.w\/3of10@sm {
+	.w\/30\@md,
+	.w\/3of10\@md {
 		width: 30%;
 	}
 
-	.w\/1of3,
-	.w\/2of6,
-	.w\/4of12@sm {
+	.w\/1of3\@md,
+	.w\/2of6\@md,
+	.w\/4of12\@md {
 		width: 33.33333%;
 	}
 
-	.w\/3of8@sm {
+	.w\/3of8\@md {
 		width: 37.5%;
 	}
 
-	.w\/40,
-	.w\/2of5,
-	.w\/4of10@sm {
+	.w\/40\@md,
+	.w\/2of5\@md,
+	.w\/4of10\@md {
 		width: 40%;
 	}
 
-	.w\/5of12@sm {
+	.w\/5of12\@md {
 		width: 41.66667%;
 	}
 
-	.w\/50,
-	.w\/1of2,
-	.w\/2of4,
-	.w\/3of6,
-	.w\/4of8,
-	.w\/5of10,
-	.w\/6of12@sm {
+	.w\/50\@md,
+	.w\/1of2\@md,
+	.w\/2of4\@md,
+	.w\/3of6\@md,
+	.w\/4of8\@md,
+	.w\/5of10\@md,
+	.w\/6of12\@md {
 		width: 50%;
 	}
 
-	.w\/7of12@sm {
+	.w\/7of12\@md {
 		width: 58.33333%;
 	}
 
-	.w\/60,
-	.w\/3of5,
-	.w\/6of10@sm {
+	.w\/60\@md,
+	.w\/3of5\@md,
+	.w\/6of10\@md {
 		width: 60%;
 	}
 
-	.w\/5of8@sm {
+	.w\/5of8\@md {
 		width: 62.5%;
 	}
 
-	.w\/70,
-	.w\/7of10@sm {
+	.w\/70\@md,
+	.w\/7of10\@md {
 		width: 70%;
 	}
 
-	.w\/75,
-	.w\/2of3,
-	.w\/6of8,
-	.w\/9of12@sm {
+	.w\/75\@md,
+	.w\/2of3\@md,
+	.w\/6of8\@md,
+	.w\/9of12\@md {
 		width: 75%;
 	}
 
-	.w\/80,
-	.w\/4of5,
-	.w\/8of10@sm {
+	.w\/80\@md,
+	.w\/4of5\@md,
+	.w\/8of10\@md {
 		width: 80%;
 	}
 
-	.w\/5of6,
-	.w\/10of12@sm {
+	.w\/5of6\@md,
+	.w\/10of12\@md {
 		width: 83.33333%;
 	}
 
-	.w\/7of8@sm {
+	.w\/7of8\@md {
 		width: 87.5%;
 	}
 
-	.w\/90,
-	.w\/9of10@sm {
+	.w\/90\@md,
+	.w\/9of10\@md {
 		width: 90%;
 	}
 
-	.w\/11of12@sm {
+	.w\/11of12\@md {
 		width: 91.66667%;
 	}
 
-	.w\/100,
-	.w\/12of12,
-	.w\/10of10,
-	.w\/9of9,
-	.w\/8of8,
-	.w\/6of6,
-	.w\/5of5,
-	.w\/4of4,
-	.w\/3of3,
-	.w\/2of2,
-	.w\/1of1,
-	.w\/full@sm {
+	.w\/100\@md,
+	.w\/12of12\@md,
+	.w\/10of10\@md,
+	.w\/9of9\@md,
+	.w\/8of8\@md,
+	.w\/6of6\@md,
+	.w\/5of5\@md,
+	.w\/4of4\@md,
+	.w\/3of3\@md,
+	.w\/2of2\@md,
+	.w\/1of1\@md,
+	.w\/full\@md {
 		width: 100%;
 	}
 }
 
 @media (min-width: 43em) {
-	.w\/1of12@sm {
+	.w\/1of12\@lg {
 		width: 8.33333%;
 	}
 
-	.w\/10,
-	.w\/1of10@sm {
+	.w\/10\@lg,
+	.w\/1of10\@lg {
 		width: 10%;
 	}
 
-	.w\/1of8@sm {
+	.w\/1of8\@lg {
 		width: 12.5%;
 	}
 
-	.w\/1of6,
-	.w\/2of12@sm {
+	.w\/1of6\@lg,
+	.w\/2of12\@lg {
 		width: 16.66667%;
 	}
 
-	.w\/20,
-	.w\/1of5,
-	.w\/2of10@sm {
+	.w\/20\@lg,
+	.w\/1of5\@lg,
+	.w\/2of10\@lg {
 		width: 20%;
 	}
 
-	.w\/25,
-	.w\/1of4,
-	.w\/2of8,
-	.w\/3of12@sm {
+	.w\/25\@lg,
+	.w\/1of4\@lg,
+	.w\/2of8\@lg,
+	.w\/3of12\@lg {
 		width: 25%;
 	}
 
-	.w\/30,
-	.w\/3of10@sm {
+	.w\/30\@lg,
+	.w\/3of10\@lg {
 		width: 30%;
 	}
 
-	.w\/1of3,
-	.w\/2of6,
-	.w\/4of12@sm {
+	.w\/1of3\@lg,
+	.w\/2of6\@lg,
+	.w\/4of12\@lg {
 		width: 33.33333%;
 	}
 
-	.w\/3of8@sm {
+	.w\/3of8\@lg {
 		width: 37.5%;
 	}
 
-	.w\/40,
-	.w\/2of5,
-	.w\/4of10@sm {
+	.w\/40\@lg,
+	.w\/2of5\@lg,
+	.w\/4of10\@lg {
 		width: 40%;
 	}
 
-	.w\/5of12@sm {
+	.w\/5of12\@lg {
 		width: 41.66667%;
 	}
 
-	.w\/50,
-	.w\/1of2,
-	.w\/2of4,
-	.w\/3of6,
-	.w\/4of8,
-	.w\/5of10,
-	.w\/6of12@sm {
+	.w\/50\@lg,
+	.w\/1of2\@lg,
+	.w\/2of4\@lg,
+	.w\/3of6\@lg,
+	.w\/4of8\@lg,
+	.w\/5of10\@lg,
+	.w\/6of12\@lg {
 		width: 50%;
 	}
 
-	.w\/7of12@sm {
+	.w\/7of12\@lg {
 		width: 58.33333%;
 	}
 
-	.w\/60,
-	.w\/3of5,
-	.w\/6of10@sm {
+	.w\/60\@lg,
+	.w\/3of5\@lg,
+	.w\/6of10\@lg {
 		width: 60%;
 	}
 
-	.w\/5of8@sm {
+	.w\/5of8\@lg {
 		width: 62.5%;
 	}
 
-	.w\/70,
-	.w\/7of10@sm {
+	.w\/70\@lg,
+	.w\/7of10\@lg {
 		width: 70%;
 	}
 
-	.w\/75,
-	.w\/2of3,
-	.w\/6of8,
-	.w\/9of12@sm {
+	.w\/75\@lg,
+	.w\/2of3\@lg,
+	.w\/6of8\@lg,
+	.w\/9of12\@lg {
 		width: 75%;
 	}
 
-	.w\/80,
-	.w\/4of5,
-	.w\/8of10@sm {
+	.w\/80\@lg,
+	.w\/4of5\@lg,
+	.w\/8of10\@lg {
 		width: 80%;
 	}
 
-	.w\/5of6,
-	.w\/10of12@sm {
+	.w\/5of6\@lg,
+	.w\/10of12\@lg {
 		width: 83.33333%;
 	}
 
-	.w\/7of8@sm {
+	.w\/7of8\@lg {
 		width: 87.5%;
 	}
 
-	.w\/90,
-	.w\/9of10@sm {
+	.w\/90\@lg,
+	.w\/9of10\@lg {
 		width: 90%;
 	}
 
-	.w\/11of12@sm {
+	.w\/11of12\@lg {
 		width: 91.66667%;
 	}
 
-	.w\/100,
-	.w\/12of12,
-	.w\/10of10,
-	.w\/9of9,
-	.w\/8of8,
-	.w\/6of6,
-	.w\/5of5,
-	.w\/4of4,
-	.w\/3of3,
-	.w\/2of2,
-	.w\/1of1,
-	.w\/full@sm {
+	.w\/100\@lg,
+	.w\/12of12\@lg,
+	.w\/10of10\@lg,
+	.w\/9of9\@lg,
+	.w\/8of8\@lg,
+	.w\/6of6\@lg,
+	.w\/5of5\@lg,
+	.w\/4of4\@lg,
+	.w\/3of3\@lg,
+	.w\/2of2\@lg,
+	.w\/1of1\@lg,
+	.w\/full\@lg {
 		width: 100%;
 	}
 }
 
 @media (min-width: 50em) {
-	.w\/1of12@sm {
+	.w\/1of12\@xl {
 		width: 8.33333%;
 	}
 
-	.w\/10,
-	.w\/1of10@sm {
+	.w\/10\@xl,
+	.w\/1of10\@xl {
 		width: 10%;
 	}
 
-	.w\/1of8@sm {
+	.w\/1of8\@xl {
 		width: 12.5%;
 	}
 
-	.w\/1of6,
-	.w\/2of12@sm {
+	.w\/1of6\@xl,
+	.w\/2of12\@xl {
 		width: 16.66667%;
 	}
 
-	.w\/20,
-	.w\/1of5,
-	.w\/2of10@sm {
+	.w\/20\@xl,
+	.w\/1of5\@xl,
+	.w\/2of10\@xl {
 		width: 20%;
 	}
 
-	.w\/25,
-	.w\/1of4,
-	.w\/2of8,
-	.w\/3of12@sm {
+	.w\/25\@xl,
+	.w\/1of4\@xl,
+	.w\/2of8\@xl,
+	.w\/3of12\@xl {
 		width: 25%;
 	}
 
-	.w\/30,
-	.w\/3of10@sm {
+	.w\/30\@xl,
+	.w\/3of10\@xl {
 		width: 30%;
 	}
 
-	.w\/1of3,
-	.w\/2of6,
-	.w\/4of12@sm {
+	.w\/1of3\@xl,
+	.w\/2of6\@xl,
+	.w\/4of12\@xl {
 		width: 33.33333%;
 	}
 
-	.w\/3of8@sm {
+	.w\/3of8\@xl {
 		width: 37.5%;
 	}
 
-	.w\/40,
-	.w\/2of5,
-	.w\/4of10@sm {
+	.w\/40\@xl,
+	.w\/2of5\@xl,
+	.w\/4of10\@xl {
 		width: 40%;
 	}
 
-	.w\/5of12@sm {
+	.w\/5of12\@xl {
 		width: 41.66667%;
 	}
 
-	.w\/50,
-	.w\/1of2,
-	.w\/2of4,
-	.w\/3of6,
-	.w\/4of8,
-	.w\/5of10,
-	.w\/6of12@sm {
+	.w\/50\@xl,
+	.w\/1of2\@xl,
+	.w\/2of4\@xl,
+	.w\/3of6\@xl,
+	.w\/4of8\@xl,
+	.w\/5of10\@xl,
+	.w\/6of12\@xl {
 		width: 50%;
 	}
 
-	.w\/7of12@sm {
+	.w\/7of12\@xl {
 		width: 58.33333%;
 	}
 
-	.w\/60,
-	.w\/3of5,
-	.w\/6of10@sm {
+	.w\/60\@xl,
+	.w\/3of5\@xl,
+	.w\/6of10\@xl {
 		width: 60%;
 	}
 
-	.w\/5of8@sm {
+	.w\/5of8\@xl {
 		width: 62.5%;
 	}
 
-	.w\/70,
-	.w\/7of10@sm {
+	.w\/70\@xl,
+	.w\/7of10\@xl {
 		width: 70%;
 	}
 
-	.w\/75,
-	.w\/2of3,
-	.w\/6of8,
-	.w\/9of12@sm {
+	.w\/75\@xl,
+	.w\/2of3\@xl,
+	.w\/6of8\@xl,
+	.w\/9of12\@xl {
 		width: 75%;
 	}
 
-	.w\/80,
-	.w\/4of5,
-	.w\/8of10@sm {
+	.w\/80\@xl,
+	.w\/4of5\@xl,
+	.w\/8of10\@xl {
 		width: 80%;
 	}
 
-	.w\/5of6,
-	.w\/10of12@sm {
+	.w\/5of6\@xl,
+	.w\/10of12\@xl {
 		width: 83.33333%;
 	}
 
-	.w\/7of8@sm {
+	.w\/7of8\@xl {
 		width: 87.5%;
 	}
 
-	.w\/90,
-	.w\/9of10@sm {
+	.w\/90\@xl,
+	.w\/9of10\@xl {
 		width: 90%;
 	}
 
-	.w\/11of12@sm {
+	.w\/11of12\@xl {
 		width: 91.66667%;
 	}
 
-	.w\/100,
-	.w\/12of12,
-	.w\/10of10,
-	.w\/9of9,
-	.w\/8of8,
-	.w\/6of6,
-	.w\/5of5,
-	.w\/4of4,
-	.w\/3of3,
-	.w\/2of2,
-	.w\/1of1,
-	.w\/full@sm {
+	.w\/100\@xl,
+	.w\/12of12\@xl,
+	.w\/10of10\@xl,
+	.w\/9of9\@xl,
+	.w\/8of8\@xl,
+	.w\/6of6\@xl,
+	.w\/5of5\@xl,
+	.w\/4of4\@xl,
+	.w\/3of3\@xl,
+	.w\/2of2\@xl,
+	.w\/1of1\@xl,
+	.w\/full\@xl {
 		width: 100%;
 	}
 }
@@ -1594,7 +1594,7 @@
 	height: 0%;
 }
 
-.h\/0 {
+.height\/0 {
 	height: 0%;
 }
 
@@ -1602,7 +1602,7 @@
 	height: 10%;
 }
 
-.h\/10 {
+.height\/10 {
 	height: 10%;
 }
 
@@ -1610,7 +1610,7 @@
 	height: 20%;
 }
 
-.h\/20 {
+.height\/20 {
 	height: 20%;
 }
 
@@ -1618,7 +1618,7 @@
 	height: 30%;
 }
 
-.h\/30 {
+.height\/30 {
 	height: 30%;
 }
 
@@ -1626,7 +1626,7 @@
 	height: 40%;
 }
 
-.h\/40 {
+.height\/40 {
 	height: 40%;
 }
 
@@ -1634,7 +1634,7 @@
 	height: 50%;
 }
 
-.h\/50 {
+.height\/50 {
 	height: 50%;
 }
 
@@ -1642,7 +1642,7 @@
 	height: 60%;
 }
 
-.h\/60 {
+.height\/60 {
 	height: 60%;
 }
 
@@ -1650,7 +1650,7 @@
 	height: 70%;
 }
 
-.h\/70 {
+.height\/70 {
 	height: 70%;
 }
 
@@ -1658,7 +1658,7 @@
 	height: 80%;
 }
 
-.h\/80 {
+.height\/80 {
 	height: 80%;
 }
 
@@ -1666,7 +1666,7 @@
 	height: 90%;
 }
 
-.h\/90 {
+.height\/90 {
 	height: 90%;
 }
 
@@ -1674,7 +1674,7 @@
 	height: 100%;
 }
 
-.h\/100 {
+.height\/100 {
 	height: 100%;
 }
 
@@ -1682,7 +1682,7 @@
 	height: 25%;
 }
 
-.h\/25 {
+.height\/25 {
 	height: 25%;
 }
 
@@ -1690,7 +1690,7 @@
 	height: 33.3333333%;
 }
 
-.h\/33 {
+.height\/33 {
 	height: 33.3333333%;
 }
 
@@ -1698,7 +1698,7 @@
 	height: 66.6666666%;
 }
 
-.h\/66 {
+.height\/66 {
 	height: 66.6666666%;
 }
 
@@ -1706,7 +1706,7 @@
 	height: 75%;
 }
 
-.h\/75 {
+.height\/75 {
 	height: 75%;
 }
 
@@ -1714,74 +1714,74 @@
 	.height\/0\@xs {
 		height: 0%;
 	}
-	.h\/0\@xs {
+	.height\/0\@xs {
 		height: 0%;
 	}
 	.height\/10\@xs {
 		height: 10%;
 	}
-	.h\/10\@xs {
+	.height\/10\@xs {
 		height: 10%;
 	}
 	.height\/20\@xs {
 		height: 20%;
 	}
-	.h\/20\@xs {
+	.height\/20\@xs {
 		height: 20%;
 	}
 	.height\/30\@xs {
 		height: 30%;
 	}
-	.h\/30\@xs {
+	.height\/30\@xs {
 		height: 30%;
 	}
 	.height\/40\@xs {
 		height: 40%;
 	}
-	.h\/40\@xs {
+	.height\/40\@xs {
 		height: 40%;
 	}
 	.height\/50\@xs {
 		height: 50%;
 	}
-	.h\/50\@xs {
+	.height\/50\@xs {
 		height: 50%;
 	}
 	.height\/60\@xs {
 		height: 60%;
 	}
-	.h\/60\@xs {
+	.height\/60\@xs {
 		height: 60%;
 	}
 	.height\/70\@xs {
 		height: 70%;
 	}
-	.h\/70\@xs {
+	.height\/70\@xs {
 		height: 70%;
 	}
 	.height\/80\@xs {
 		height: 80%;
 	}
-	.h\/80\@xs {
+	.height\/80\@xs {
 		height: 80%;
 	}
 	.height\/90\@xs {
 		height: 90%;
 	}
-	.h\/90\@xs {
+	.height\/90\@xs {
 		height: 90%;
 	}
 	.height\/100\@xs {
 		height: 100%;
 	}
-	.h\/100\@xs {
+	.height\/100\@xs {
 		height: 100%;
 	}
 	.height\/25\@xs {
 		height: 25%;
 	}
 
-	.h\/25\@xs {
+	.height\/25\@xs {
 		height: 25%;
 	}
 
@@ -1789,7 +1789,7 @@
 		height: 33.3333333%;
 	}
 
-	.h\/33\@xs {
+	.height\/33\@xs {
 		height: 33.3333333%;
 	}
 
@@ -1797,7 +1797,7 @@
 		height: 66.6666666%;
 	}
 
-	.h\/66\@xs {
+	.height\/66\@xs {
 		height: 66.6666666%;
 	}
 
@@ -1805,7 +1805,7 @@
 		height: 75%;
 	}
 
-	.h\/75\@xs {
+	.height\/75\@xs {
 		height: 75%;
 	}
 }
@@ -1814,74 +1814,74 @@
 	.height\/0\@sm {
 		height: 0%;
 	}
-	.h\/0\@sm {
+	.height\/0\@sm {
 		height: 0%;
 	}
 	.height\/10\@sm {
 		height: 10%;
 	}
-	.h\/10\@sm {
+	.height\/10\@sm {
 		height: 10%;
 	}
 	.height\/20\@sm {
 		height: 20%;
 	}
-	.h\/20\@sm {
+	.height\/20\@sm {
 		height: 20%;
 	}
 	.height\/30\@sm {
 		height: 30%;
 	}
-	.h\/30\@sm {
+	.height\/30\@sm {
 		height: 30%;
 	}
 	.height\/40\@sm {
 		height: 40%;
 	}
-	.h\/40\@sm {
+	.height\/40\@sm {
 		height: 40%;
 	}
 	.height\/50\@sm {
 		height: 50%;
 	}
-	.h\/50\@sm {
+	.height\/50\@sm {
 		height: 50%;
 	}
 	.height\/60\@sm {
 		height: 60%;
 	}
-	.h\/60\@sm {
+	.height\/60\@sm {
 		height: 60%;
 	}
 	.height\/70\@sm {
 		height: 70%;
 	}
-	.h\/70\@sm {
+	.height\/70\@sm {
 		height: 70%;
 	}
 	.height\/80\@sm {
 		height: 80%;
 	}
-	.h\/80\@sm {
+	.height\/80\@sm {
 		height: 80%;
 	}
 	.height\/90\@sm {
 		height: 90%;
 	}
-	.h\/90\@sm {
+	.height\/90\@sm {
 		height: 90%;
 	}
 	.height\/100\@sm {
 		height: 100%;
 	}
-	.h\/100\@sm {
+	.height\/100\@sm {
 		height: 100%;
 	}
 	.height\/25\@sm {
 		height: 25%;
 	}
 
-	.h\/25\@sm {
+	.height\/25\@sm {
 		height: 25%;
 	}
 
@@ -1889,7 +1889,7 @@
 		height: 33.3333333%;
 	}
 
-	.h\/33\@sm {
+	.height\/33\@sm {
 		height: 33.3333333%;
 	}
 
@@ -1897,7 +1897,7 @@
 		height: 66.6666666%;
 	}
 
-	.h\/66\@sm {
+	.height\/66\@sm {
 		height: 66.6666666%;
 	}
 
@@ -1905,7 +1905,7 @@
 		height: 75%;
 	}
 
-	.h\/75\@sm {
+	.height\/75\@sm {
 		height: 75%;
 	}
 }
@@ -1914,74 +1914,74 @@
 	.height\/0\@md {
 		height: 0%;
 	}
-	.h\/0\@md {
+	.height\/0\@md {
 		height: 0%;
 	}
 	.height\/10\@md {
 		height: 10%;
 	}
-	.h\/10\@md {
+	.height\/10\@md {
 		height: 10%;
 	}
 	.height\/20\@md {
 		height: 20%;
 	}
-	.h\/20\@md {
+	.height\/20\@md {
 		height: 20%;
 	}
 	.height\/30\@md {
 		height: 30%;
 	}
-	.h\/30\@md {
+	.height\/30\@md {
 		height: 30%;
 	}
 	.height\/40\@md {
 		height: 40%;
 	}
-	.h\/40\@md {
+	.height\/40\@md {
 		height: 40%;
 	}
 	.height\/50\@md {
 		height: 50%;
 	}
-	.h\/50\@md {
+	.height\/50\@md {
 		height: 50%;
 	}
 	.height\/60\@md {
 		height: 60%;
 	}
-	.h\/60\@md {
+	.height\/60\@md {
 		height: 60%;
 	}
 	.height\/70\@md {
 		height: 70%;
 	}
-	.h\/70\@md {
+	.height\/70\@md {
 		height: 70%;
 	}
 	.height\/80\@md {
 		height: 80%;
 	}
-	.h\/80\@md {
+	.height\/80\@md {
 		height: 80%;
 	}
 	.height\/90\@md {
 		height: 90%;
 	}
-	.h\/90\@md {
+	.height\/90\@md {
 		height: 90%;
 	}
 	.height\/100\@md {
 		height: 100%;
 	}
-	.h\/100\@md {
+	.height\/100\@md {
 		height: 100%;
 	}
 	.height\/25\@md {
 		height: 25%;
 	}
 
-	.h\/25\@md {
+	.height\/25\@md {
 		height: 25%;
 	}
 
@@ -1989,7 +1989,7 @@
 		height: 33.3333333%;
 	}
 
-	.h\/33\@md {
+	.height\/33\@md {
 		height: 33.3333333%;
 	}
 
@@ -1997,7 +1997,7 @@
 		height: 66.6666666%;
 	}
 
-	.h\/66\@md {
+	.height\/66\@md {
 		height: 66.6666666%;
 	}
 
@@ -2005,7 +2005,7 @@
 		height: 75%;
 	}
 
-	.h\/75\@md {
+	.height\/75\@md {
 		height: 75%;
 	}
 }
@@ -2014,74 +2014,74 @@
 	.height\/0\@lg {
 		height: 0%;
 	}
-	.h\/0\@lg {
+	.height\/0\@lg {
 		height: 0%;
 	}
 	.height\/10\@lg {
 		height: 10%;
 	}
-	.h\/10\@lg {
+	.height\/10\@lg {
 		height: 10%;
 	}
 	.height\/20\@lg {
 		height: 20%;
 	}
-	.h\/20\@lg {
+	.height\/20\@lg {
 		height: 20%;
 	}
 	.height\/30\@lg {
 		height: 30%;
 	}
-	.h\/30\@lg {
+	.height\/30\@lg {
 		height: 30%;
 	}
 	.height\/40\@lg {
 		height: 40%;
 	}
-	.h\/40\@lg {
+	.height\/40\@lg {
 		height: 40%;
 	}
 	.height\/50\@lg {
 		height: 50%;
 	}
-	.h\/50\@lg {
+	.height\/50\@lg {
 		height: 50%;
 	}
 	.height\/60\@lg {
 		height: 60%;
 	}
-	.h\/60\@lg {
+	.height\/60\@lg {
 		height: 60%;
 	}
 	.height\/70\@lg {
 		height: 70%;
 	}
-	.h\/70\@lg {
+	.height\/70\@lg {
 		height: 70%;
 	}
 	.height\/80\@lg {
 		height: 80%;
 	}
-	.h\/80\@lg {
+	.height\/80\@lg {
 		height: 80%;
 	}
 	.height\/90\@lg {
 		height: 90%;
 	}
-	.h\/90\@lg {
+	.height\/90\@lg {
 		height: 90%;
 	}
 	.height\/100\@lg {
 		height: 100%;
 	}
-	.h\/100\@lg {
+	.height\/100\@lg {
 		height: 100%;
 	}
 	.height\/25\@lg {
 		height: 25%;
 	}
 
-	.h\/25\@lg {
+	.height\/25\@lg {
 		height: 25%;
 	}
 
@@ -2089,7 +2089,7 @@
 		height: 33.3333333%;
 	}
 
-	.h\/33\@lg {
+	.height\/33\@lg {
 		height: 33.3333333%;
 	}
 
@@ -2097,7 +2097,7 @@
 		height: 66.6666666%;
 	}
 
-	.h\/66\@lg {
+	.height\/66\@lg {
 		height: 66.6666666%;
 	}
 
@@ -2105,7 +2105,7 @@
 		height: 75%;
 	}
 
-	.h\/75\@lg {
+	.height\/75\@lg {
 		height: 75%;
 	}
 }
@@ -2114,74 +2114,74 @@
 	.height\/0\@xl {
 		height: 0%;
 	}
-	.h\/0\@xl {
+	.height\/0\@xl {
 		height: 0%;
 	}
 	.height\/10\@xl {
 		height: 10%;
 	}
-	.h\/10\@xl {
+	.height\/10\@xl {
 		height: 10%;
 	}
 	.height\/20\@xl {
 		height: 20%;
 	}
-	.h\/20\@xl {
+	.height\/20\@xl {
 		height: 20%;
 	}
 	.height\/30\@xl {
 		height: 30%;
 	}
-	.h\/30\@xl {
+	.height\/30\@xl {
 		height: 30%;
 	}
 	.height\/40\@xl {
 		height: 40%;
 	}
-	.h\/40\@xl {
+	.height\/40\@xl {
 		height: 40%;
 	}
 	.height\/50\@xl {
 		height: 50%;
 	}
-	.h\/50\@xl {
+	.height\/50\@xl {
 		height: 50%;
 	}
 	.height\/60\@xl {
 		height: 60%;
 	}
-	.h\/60\@xl {
+	.height\/60\@xl {
 		height: 60%;
 	}
 	.height\/70\@xl {
 		height: 70%;
 	}
-	.h\/70\@xl {
+	.height\/70\@xl {
 		height: 70%;
 	}
 	.height\/80\@xl {
 		height: 80%;
 	}
-	.h\/80\@xl {
+	.height\/80\@xl {
 		height: 80%;
 	}
 	.height\/90\@xl {
 		height: 90%;
 	}
-	.h\/90\@xl {
+	.height\/90\@xl {
 		height: 90%;
 	}
 	.height\/100\@xl {
 		height: 100%;
 	}
-	.h\/100\@xl {
+	.height\/100\@xl {
 		height: 100%;
 	}
 	.height\/25\@xl {
 		height: 25%;
 	}
 
-	.h\/25\@xl {
+	.height\/25\@xl {
 		height: 25%;
 	}
 
@@ -2189,7 +2189,7 @@
 		height: 33.3333333%;
 	}
 
-	.h\/33\@xl {
+	.height\/33\@xl {
 		height: 33.3333333%;
 	}
 
@@ -2197,7 +2197,7 @@
 		height: 66.6666666%;
 	}
 
-	.h\/66\@xl {
+	.height\/66\@xl {
 		height: 66.6666666%;
 	}
 
@@ -2205,7 +2205,7 @@
 		height: 75%;
 	}
 
-	.h\/75\@xl {
+	.height\/75\@xl {
 		height: 75%;
 	}
 }

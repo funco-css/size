@@ -6,6 +6,8 @@
   "style": "index.css",
   "files": [
     "index.css",
+    "short.css",
+    "long.css",
     "dist",
     "lib"
   ],
