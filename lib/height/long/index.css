@@ -3,7 +3,7 @@
 		height: $i%;
 	}
 
-	.h\/$i {
+	.height\/$i {
 		height: $i%;
 	}
 }
@@ -12,7 +12,7 @@
 	height: 25%;
 }
 
-.h\/25 {
+.height\/25 {
 	height: 25%;
 }
 
@@ -20,7 +20,7 @@
 	height: 33.3333333%;
 }
 
-.h\/33 {
+.height\/33 {
 	height: 33.3333333%;
 }
 
@@ -28,7 +28,7 @@
 	height: 66.6666666%;
 }
 
-.h\/66 {
+.height\/66 {
 	height: 66.6666666%;
 }
 
@@ -36,7 +36,7 @@
 	height: 75%;
 }
 
-.h\/75 {
+.height\/75 {
 	height: 75%;
 }
 
@@ -46,7 +46,7 @@
 			height: $i%;
 		}
 
-		.h\/$i\@xs {
+		.height\/$i\@xs {
 			height: $i%;
 		}
 	}
@@ -54,7 +54,7 @@
 		height: 25%;
 	}
 
-	.h\/25\@xs {
+	.height\/25\@xs {
 		height: 25%;
 	}
 
@@ -62,7 +62,7 @@
 		height: 33.3333333%;
 	}
 
-	.h\/33\@xs {
+	.height\/33\@xs {
 		height: 33.3333333%;
 	}
 
@@ -70,7 +70,7 @@
 		height: 66.6666666%;
 	}
 
-	.h\/66\@xs {
+	.height\/66\@xs {
 		height: 66.6666666%;
 	}
 
@@ -78,7 +78,7 @@
 		height: 75%;
 	}
 
-	.h\/75\@xs {
+	.height\/75\@xs {
 		height: 75%;
 	}
 }
@@ -89,7 +89,7 @@
 			height: $i%;
 		}
 
-		.h\/$i\@sm {
+		.height\/$i\@sm {
 			height: $i%;
 		}
 	}
@@ -97,7 +97,7 @@
 		height: 25%;
 	}
 
-	.h\/25\@sm {
+	.height\/25\@sm {
 		height: 25%;
 	}
 
@@ -105,7 +105,7 @@
 		height: 33.3333333%;
 	}
 
-	.h\/33\@sm {
+	.height\/33\@sm {
 		height: 33.3333333%;
 	}
 
@@ -113,7 +113,7 @@
 		height: 66.6666666%;
 	}
 
-	.h\/66\@sm {
+	.height\/66\@sm {
 		height: 66.6666666%;
 	}
 
@@ -121,7 +121,7 @@
 		height: 75%;
 	}
 
-	.h\/75\@sm {
+	.height\/75\@sm {
 		height: 75%;
 	}
 }
@@ -132,7 +132,7 @@
 			height: $i%;
 		}
 
-		.h\/$i\@md {
+		.height\/$i\@md {
 			height: $i%;
 		}
 	}
@@ -140,7 +140,7 @@
 		height: 25%;
 	}
 
-	.h\/25\@md {
+	.height\/25\@md {
 		height: 25%;
 	}
 
@@ -148,7 +148,7 @@
 		height: 33.3333333%;
 	}
 
-	.h\/33\@md {
+	.height\/33\@md {
 		height: 33.3333333%;
 	}
 
@@ -156,7 +156,7 @@
 		height: 66.6666666%;
 	}
 
-	.h\/66\@md {
+	.height\/66\@md {
 		height: 66.6666666%;
 	}
 
@@ -164,7 +164,7 @@
 		height: 75%;
 	}
 
-	.h\/75\@md {
+	.height\/75\@md {
 		height: 75%;
 	}
 }
@@ -175,7 +175,7 @@
 			height: $i%;
 		}
 
-		.h\/$i\@lg {
+		.height\/$i\@lg {
 			height: $i%;
 		}
 	}
@@ -183,7 +183,7 @@
 		height: 25%;
 	}
 
-	.h\/25\@lg {
+	.height\/25\@lg {
 		height: 25%;
 	}
 
@@ -191,7 +191,7 @@
 		height: 33.3333333%;
 	}
 
-	.h\/33\@lg {
+	.height\/33\@lg {
 		height: 33.3333333%;
 	}
 
@@ -199,7 +199,7 @@
 		height: 66.6666666%;
 	}
 
-	.h\/66\@lg {
+	.height\/66\@lg {
 		height: 66.6666666%;
 	}
 
@@ -207,7 +207,7 @@
 		height: 75%;
 	}
 
-	.h\/75\@lg {
+	.height\/75\@lg {
 		height: 75%;
 	}
 }
@@ -218,7 +218,7 @@
 			height: $i%;
 		}
 
-		.h\/$i\@xl {
+		.height\/$i\@xl {
 			height: $i%;
 		}
 	}
@@ -226,7 +226,7 @@
 		height: 25%;
 	}
 
-	.h\/25\@xl {
+	.height\/25\@xl {
 		height: 25%;
 	}
 
@@ -234,7 +234,7 @@
 		height: 33.3333333%;
 	}
 
-	.h\/33\@xl {
+	.height\/33\@xl {
 		height: 33.3333333%;
 	}
 
@@ -242,7 +242,7 @@
 		height: 66.6666666%;
 	}
 
-	.h\/66\@xl {
+	.height\/66\@xl {
 		height: 66.6666666%;
 	}
 
@@ -250,7 +250,7 @@
 		height: 75%;
 	}
 
-	.h\/75\@xl {
+	.height\/75\@xl {
 		height: 75%;
 	}
 }
