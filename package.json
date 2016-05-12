@@ -1,6 +1,6 @@
 {
   "name": "funco-size",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "size utilities with functional style",
   "main": "index.css",
   "style": "index.css",
